@@ -29,6 +29,10 @@ Media queries for responsive layout.
 1. Add state management like redux
 1. Some additional optimizations
 
+## Installation
+
+`npm run install`
+
 ## Available Scripts
 
 In the project directory, you can run:
