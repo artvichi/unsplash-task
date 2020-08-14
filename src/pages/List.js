@@ -12,7 +12,7 @@ const List = ({ items }) => {
         return (
           <ListItem key={id}>
             <Link to={`/details/${id}`} style={{ display: "inline-block", width: "100%", height: "100%" }}>
-              <ItemContent style={{ backgroundImage: `url(${PICSUM_URL}${id}/${IMAGE_SIZE})` }}>
+              <ItemContent style={{ backgroundImage: `url(${PICSUM_URL}id/${id}/${IMAGE_SIZE})` }}>
                 <Cover />
                 <AuthorSection>{author}</AuthorSection>
               </ItemContent>
