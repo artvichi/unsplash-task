@@ -1,17 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Routing [React Web Routing](https://reactrouter.com/web).
-Data fetching [Axios](https://github.com/axios/axios)
+Routing [React Web Routing](https://reactrouter.com/web).<br />
+Data fetching [Axios](https://github.com/axios/axios)<br />
 CSS and styles [Styled Components](https://styled-components.com/) library.
 
-React hooks was used to store data and implement some memoization in the project.
+React hooks was used to store data and implement some memoization in the project.<br />
 Fetching has 3 states
 
 1. Loading
 1. Error
 1. Fetched
 
-For properties type check `prop-types` library was used.
+For properties type check `prop-types` library was used.<br />
 Media queries for responsive layout.
 
 ### Project structure
